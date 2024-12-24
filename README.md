@@ -23,7 +23,7 @@ You can reach me via:
 
 📧 Email: ronychatterjee365@gmail.com
 <br>
-🧑‍💻 GitHub Issues/Discussions: [GitHub Issues Link]
+🧑‍💻 GitHub Issues/Discussions
 <br>
 Pronouns: He/Him
 <br>
