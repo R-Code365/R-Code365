@@ -11,6 +11,7 @@ Currently, I’m working on:
 📚 Continuous Learning: Mastering the intricacies of machine learning to build powerful, impactful systems.
 <br>
 I’m always excited to collaborate on:
+<br>
 
 🌍 Open-source projects: Ready to collaborate on a range of projects, AI-focused or otherwise.
 <br>
