@@ -9,6 +9,7 @@ Currently, I’m working on:
 🤖 Deep Dive into Transformer Models: Leveraging cutting-edge AI models like GPT and BERT to drive innovation.
 <br>
 📚 Continuous Learning: Mastering the intricacies of machine learning to build powerful, impactful systems.
+<br>
 I’m always excited to collaborate on:
 
 🌍 Open-source projects: Ready to collaborate on a range of projects, AI-focused or otherwise.
